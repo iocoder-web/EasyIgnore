@@ -1,0 +1,2 @@
+# EasyIgnore
+ .gitattributes and .gitignore
